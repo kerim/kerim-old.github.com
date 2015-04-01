@@ -1,0 +1,13 @@
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: P.Kerim  Friedman
+url: ""
+description: Friedman's blog'.
+twitter: kerim
+facebook: kerimfriedman
