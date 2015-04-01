@@ -7,15 +7,21 @@ title: "P. Kerim Friedman"
 <section class="content">
 # Anthropologist 人類學家
 
-P\. Kerim Friedman is an associate professor in the[Department of Ethnic Relations and Cultures](http://www.erc.ndhu.edu.tw/) at[National Dong Hwa University](http://www.ndhu.edu.tw/bin/home.php?Lang=en), where he teaches linguistic and visual anthropology. His research explores the relationship between language, ideology and political economy in Taiwan. 傅可恩目前是國立東華大學[族群關係與文化學系](http://www.erc.ndhu.edu.tw/)副教授。授課科目為語言人類學與視覺人類學。其研究探討臺灣的語言、意識型態與政治經濟學間的關係。
+P\. Kerim Friedman is an associate professor in the[Department of Ethnic Relations and Cultures](http://www.erc.ndhu.edu.tw/) at[National Dong Hwa University](http://www.ndhu.edu.tw/bin/home.php?Lang=en), where he teaches linguistic and visual anthropology. His research explores the relationship between language, ideology and political economy in Taiwan. 
+
+傅可恩目前是國立東華大學[族群關係與文化學系](http://www.erc.ndhu.edu.tw/)副教授。授課科目為語言人類學與視覺人類學。其研究探討臺灣的語言、意識型態與政治經濟學間的關係。
 
 # Filmmaker 導演
 
-Kerim is also a documentary filmmaker. His latest film is[Please Don’t Beat Me, Sir!.](http://dontbeatmesir.com/) 他也是一位民族誌電影工作者。他最新的電影是：[《請別打我，長官！》](http://dontbeatmesir.com/)。
+Kerim is also a documentary filmmaker. His latest film is[Please Don’t Beat Me, Sir!.](http://dontbeatmesir.com/) 
+
+他也是一位民族誌電影工作者。他最新的電影是：[《請別打我，長官！》](http://dontbeatmesir.com/)
 
 # Blogger 部落格
 
-He is a founding member of the group anthropology blog[Savage Minds](http://savageminds.org/). 傅可恩是[Savage Minds](http://savageminds.org/)人類學部落格的團隊成員。
+He is a founding member of the group anthropology blog[Savage Minds](http://savageminds.org/). 
+
+傅可恩是[Savage Minds](http://savageminds.org/)人類學部落格的團隊成員。
 
 # Contact 聯絡
 
