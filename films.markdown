@@ -1,9 +1,8 @@
 ---
-layout: layout
+layout: page
 permalink: "films/index.html"
 title: "電影 Films"
 ---
-<section class="content">	
 # 電影 Films
 
 <iframe src="https://player.vimeo.com/video/27718057" width="500" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -22,4 +21,3 @@ title: "電影 Films"
     *   Screenings: Finger Lakes Environmental Film Festival, Ithaca, NY, 2007; Dallas South Asian Film Festival, Dallas, TX, 2006.
 
     *   Producer. “Lorraine,” a short documentary on a woman living in a communal home for formerly homeless people in Philadelphia. Spring 1995.
-</section>

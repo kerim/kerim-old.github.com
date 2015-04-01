@@ -1,30 +1,33 @@
-<section class="sidebar">
-  <a href="/">
-    <img src="/images/3f733bd06413af380fcd122e4be08dc4.jpeg" height="80" width="80" class="avatar" />
-  </a>
+<div class="sidebar">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
 
-  <section class="name">
-    <a href="/">
-      <span id="fname">{{ site.name|split:' '|first }}</span>
-      <span id="lname">{{ site.name|split:' '|last }}</span>
-    </a><br/>	
-			<span style="margin-left: 14px;">傅可恩</span>
-  </section>
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">介紹 ABOUT</a>
 
-  <section class="meta">
-    <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
-  	<a href="https://facebook.com/{{ site.facebook }}" target="_blank"><i class="fa fa-facebook"></i></a>
-    <a href="https://plus.google.com/+KerimFriedman/about" target="_blank"><i class="fa fa-google-plus"></i></a>
-		<a href="https://www.flickr.com/photos/kerim/" target="_blank" target="_blank"><i class="fa fa-flickr"></i></a>
-  </section>
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
 
-  <section class="sections">
-    <ul>
-      <li><a href="/">介紹 About</a></li>
-      <li><a href="http://ndhu.academia.edu/KerimFriedman" target="_blank">寫作 Writings ↗</a></li>
-			<li><a href="{{ site.baseurl }}/teaching/">教學 Teaching</a></li>
-			<li><a href="{{ site.baseurl }}/films/">電影 Films</a></li>
-			<li><a href="http://keywords.oxus.net/" target="_blank">部落格 Blog ↗</a></li>
-    </ul>
-  </section>
-</section>
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <a href="http://ndhu.academia.edu/KerimFriedman" target="_blank">寫作 Writings ↗</a>
+   </nav>
+
+<div class="container sidebar-sticky">
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

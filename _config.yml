@@ -1,13 +1,29 @@
-markdown: rdiscount
-permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-gems:
-  - jekyll-sitemap
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-name: P.Kerim  Friedman
-url: "http://kerim.oxus.net/"
-description: P. Kerim Friedman's Homepage.
-twitter: kerim
-facebook: kerimfriedman
+# Setup
+title:            P. Kerim Friedman 傅可恩
+tagline:          'P. Kerim Friedman 傅可恩'
+description:      '<a href="https://twitter.com/@kerim" target="_blank"><i class="fa fa-twitter"></i></a>
+  	<a href="https://facebook.com/kerimfriedman" target="_blank"><i class="fa fa-facebook"></i></a>
+    <a href="https://plus.google.com/+KerimFriedman/about" target="_blank"><i class="fa fa-google-plus"></i></a>
+    <a href="https://www.flickr.com/photos/kerim/" target="_blank" target="_blank"><i class="fa fa-flickr"></i></a>'
+url:              http://kerim.oxus.net/
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde

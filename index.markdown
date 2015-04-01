@@ -1,10 +1,9 @@
 ---
-layout: layout
-title: "P. Kerim Friedman"
+layout: default
+title: 介紹 ABOUT
 ---
 
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
-<section class="content">
 # Anthropologist 人類學家
 
 P\. Kerim Friedman is an associate professor in the [Department of Ethnic Relations and Cultures](http://www.erc.ndhu.edu.tw/) at [National Dong Hwa University](http://www.ndhu.edu.tw/bin/home.php?Lang=en), where he teaches linguistic and visual anthropology. His research explores the relationship between language, ideology and political economy in Taiwan. 
@@ -38,7 +37,6 @@ Taiwan
 國立東華大學族群關係與文化學系  
 花蓮縣壽豐鄉志學村大學路二段一號  
 97401
-</section>
 
 
 
