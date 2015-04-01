@@ -74,11 +74,12 @@ a:hover{
   .content h1 {
     color: #bd5532;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
-    font-weight: 400; }
+    font-weight: 400;
+  margin-bottom: 10px;}
   .content h1 a {
     color: #bd5532;
     text-decoration: none; }
-  .content h2 {
+.content h2 {
     color: #bd5532;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
     font-weight: 400; }
