@@ -28,14 +28,14 @@ published: true
 
 ## Other Academic Publications 
 
-Review, House Signs and Collegiate Fun: Sex, Race, and Faith in a College Town, by Chaise LaDousa. In *[Journal of Linguistic Anthropology](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1395.2013.01154.x/abstract)*. May 2013.
+"Review, House Signs and Collegiate Fun: Sex, Race, and Faith in a College Town, by Chaise LaDousa." In *[Journal of Linguistic Anthropology](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1395.2013.01154.x/abstract)*. May 2013.
 
-Mastering Colonial Disorder. In *[Museum Anthropology Review](http://scholarworks.iu.edu/journals/index.php/mar/article/view/2167)*. March 2012.
+"Mastering Colonial Disorder." In *[Museum Anthropology Review](http://scholarworks.iu.edu/journals/index.php/mar/article/view/2167)*. March 2012.
 
-Film Review, The Rising Wave, by Shweta Kishore and Yask Desai. In *[American Anthropologist](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2011.01381.x/abstract)*. December 2011.
+"Film Review, The Rising Wave, by Shweta Kishore and Yask Desai." In *[American Anthropologist](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2011.01381.x/abstract)*. December 2011.
 
-Review, Political Interventions: Social Science and Political Action, by Pierre Bourdieu. In *[Capital & Class](http://cnc.sagepub.com/content/35/1/141.full.pdf+html)*, February 2011.
+"Review, Political Interventions: Social Science and Political Action, by Pierre Bourdieu." In *[Capital & Class](http://cnc.sagepub.com/content/35/1/141.full.pdf+html)*, February 2011.
 
-Review, War of Words, by Sandra Silberstein, and At War with Words, by Mirjana N. Dedaić and Daniel N. Nelson (eds.). In *[Language in Society](http://dx.doi.org/10.1017/S0047404505230221)*, September 2005.
+"Review, War of Words, by Sandra Silberstein, and At War with Words, by Mirjana N. Dedaić and Daniel N. Nelson (eds.)." In *[Language in Society](http://dx.doi.org/10.1017/S0047404505230221)*, September 2005.
 
-Review, Language and Language-in-Education Planning in the Pacific Basin, by Robert Kaplan and Richard Baldauf. In *[Language Policy](http://link.springer.com/article/10.1023/B%3ALPOL.0000017852.27504.8b)*, December 2003.
+"Review, Language and Language-in-Education Planning in the Pacific Basin, by Robert Kaplan and Richard Baldauf." In *[Language Policy](http://link.springer.com/article/10.1023/B%3ALPOL.0000017852.27504.8b)*, December 2003.
