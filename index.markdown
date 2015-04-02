@@ -22,19 +22,3 @@ Kerim is also a documentary filmmaker. His latest film is [Please Don’t Beat M
 He is a founding member of the group anthropology blog [Savage Minds](http://savageminds.org/). His anthropology blogging also appears in Chinese translation on the [Guava Anthropology](http://guavanthropology.tw/author/傅可恩（Kerim%20Friedman）) blog. [Keywords](http://keywords.oxus.net) is his personal blog.
 
 傅可恩是[Savage Minds](http://savageminds.org/)人類學部落格的團隊成員。
-
-# Contact 聯絡
-
-Email:[kerim.friedman@oxus.net](mailto:kerim.friedman@oxus.net)  
-
-Dr. P. Kerim Friedman  
-National Dong Hwa University  
-Department of Ethnic Relations and Cultures  
-No. 1, Sec. 2, Da Hsueh Rd.,  
-Shoufeng, Hualien 97401  
-Taiwan  
-
-傅可恩副教授  
-國立東華大學族群關係與文化學系  
-花蓮縣壽豐鄉志學村大學路二段一號  
-97401
