@@ -3,6 +3,8 @@ layout: page
 title: "寫作 Publications"
 ---
 
+*Note: These publications are also available on my [academia.edu](https://ndhu.academia.edu/KerimFriedman) page.*
+
 ## Refereed Publications
 
 “Anthropological Publics and Their Onlookers: The Dynamics of Multiple Audiences In The Blog Savageminds.org.”  With Alex Golub. In *[Media, Engagement, and Anthropological Practice: Contemporary Scholarship](http://www.berghahnbooks.com/title.php?rowtag=PinkMedia)*, Simone Abram and Sarah Pink, eds. Berghahn Books. October 2015.
