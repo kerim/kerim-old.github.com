@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "寫作 Publications"
+title: 寫作 Publications
+published: true
 ---
 
 *Note: These publications are also available on my [academia.edu](https://ndhu.academia.edu/KerimFriedman) page.*
@@ -15,11 +16,12 @@ title: "寫作 Publications"
 “[From Thugs to Victims: Dakxin Bajrange Chhara’s Cinema of Justice](https://www.academia.edu/806631/From_Thugs_to_Victims_Dakxin_Bajrange_Chharas_Cinema_of_Justice).” *[Visual Anthropology](http://www.tandfonline.com/doi/pdf/10.1080/08949468.2011.583571)* Vol. 24, No. 4. September 2011.
 > The documentary films of Indian filmmaker Dakxin Bajrange Chhara focus, not on his own community, but on marginalized nomadic communities within his home state of Gujarat. In order to understand these films I draw on Partha Chatterjee's theory of "political society" to argue that Bajrange's portrayal of the social injustices directed against these other communities serves also to challenge the historical stigma his own community feels as a result of having been labeled a "Criminal Tribe" by the British. By highlighting the victimhood of India’s Denotified and Nomadic Tribes (DNTs), Bajrange seeks to embue them with the “moral attributes of a community.”
 
-“Aborigine Education Policy Under the Japanese.” Chapter in volume, *Becoming Taiwan, from Colonialism to Democracy*. Edited by Ann Heylen and Scott Sommers. Harrassowitz-Verlag. 2010.
+“[Aborigine Education Policy Under the Japanese](https://www.academia.edu/806632/Entering_the_Mountains_to_Rule_the_Aborigines_Taiwanese_Aborigine_Education_and_the_Colonial_Encounter).” Chapter in volume, *[Becoming Taiwan, from Colonialism to Democracy](http://www.harrassowitz-verlag.de/title_3880.ahtml)*. Edited by Ann Heylen and Scott Sommers. Harrassowitz-Verlag. 2010.
+> Just as Native American education policy in post-Civil War United States was shaped by the thirst for land during a period of rapid westward expansion, so too was Aborigine education policy in Taiwan shaped by the forces which drew first the Qing, and later the Japanese into the rugged terrain of the high Central Mountain Range and the remote plains of the East Coast. Education policy was central to U.S. territorial expansion because "the willingness of Indians to sell their land" was assumed to be "directly proportionate to their ability to acquire civilized ways" (Adams 1988: 16). Whereas in the U.S. case these "civilized ways" were defined in terms Protestant ideology and an agricultural lifestyle, during the late Qing dynasty Confucianism and wet paddy rice farming served a similar purpose. The civilizing mission was no less central during Japanese rule, although loyalty to the Emperor replaced Confucianism. While the civilizing mission remained constant throughout the entire period, spanning from 1874 to 1945, there were important differences in implementation which had profound effects on the incorporation of Aborigines into the state. The arrival of the Colonial Japanese Government in 1895 marked an important turning point, bringing a new urgency to the task of occupying the mountain territories. And the start of the Sino-Japanese War of 1937 crated a need for loyal subjects willing to die for the Emperor. Taiwan's unique geography mattered too, with education policies in the Central Range differing from those on the East Coast. Accordingly, this chapter is organized around three time periods: late Qing (1874-1945), prewar (1895-1937) and wartime Japanese rule (1937-1945), with differences in education policy between the Mountains and the East Coast highlighted whenever possible.
 
-"Ethical Hegemony." In *Rethinking Marxism*, July 2009.
+"[Ethical Hegemony](https://www.academia.edu/806628/Ethical_Hegemony)." In *[Rethinking Marxism](http://www.tandfonline.com/doi/abs/10.1080/08935690902955062)*, July 2009.
 
-"Duoergu (Dhol) de gushi: Guanyu Yindu yuanzhumin (Adivasis) wei ziji suo zuo de koushu zazhi." (The Story of Dhol: An "oral magazine" by, about, and for Adivasis) (Linmic, Trans.). In J. H. Cheng-feng Shih (Ed.), *Dangdai Yindu minzhu zhengzhi*. (pp. 289-308). Taipei: Taiwan guoji yanjiu xuehui chuban : han lu tushu zongjingxiao. 2007.
+"[多爾鼓(Dhol)的故事: 關於印度原住民(Adivasis)為自己所做的口述雜誌](https://www.academia.edu/2406051/%E5%A4%9A%E7%88%BE%E9%BC%93_Dhol_%E7%9A%84%E6%95%85%E4%BA%8B_%E9%97%9C%E6%96%BC%E5%8D%B0%E5%BA%A6%E5%8E%9F%E4%BD%8F%E6%B0%91_Adivasis_%E7%82%BA%E8%87%AA%E5%B7%B1%E6%89%80%E5%81%9A%E7%9A%84%E5%8F%A3%E8%BF%B0%E9%9B%9C%E8%AA%8C)" (The Story of Dhol: An "oral magazine" by, about, and for Adivasis) (Linmic, Trans.). In J. H. Cheng-feng Shih (Ed.), *Dangdai Yindu minzhu zhengzhi*. (pp. 289-308). Taipei: Taiwan guoji yanjiu xuehui chuban : han lu tushu zongjingxiao. 2007.
 
 ## Other Academic Publications 
 - Review, House Signs and Collegiate Fun: Sex, Race, and Faith in a College Town, by Chaise LaDousa. In *Journal of Linguistic Anthropology*. May 2013.
