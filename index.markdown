@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 介紹 ABOUT
+published: true
 ---
 
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
@@ -18,7 +19,7 @@ Kerim is also a documentary filmmaker. His latest film is [Please Don’t Beat M
 
 # Blogger 部落格
 
-He is a founding member of the group anthropology blog [Savage Minds](http://savageminds.org/). 
+He is a founding member of the group anthropology blog [Savage Minds](http://savageminds.org/). His anthropology blogging also appears in Chinese translation on the [Guava Anthropology](http://guavanthropology.tw/author/傅可恩（Kerim%20Friedman）) blog. [Keywords](http://keywords.oxus.net) is his personal blog.
 
 傅可恩是[Savage Minds](http://savageminds.org/)人類學部落格的團隊成員。
 
@@ -37,6 +38,3 @@ Taiwan
 國立東華大學族群關係與文化學系  
 花蓮縣壽豐鄉志學村大學路二段一號  
 97401
-
-
-
