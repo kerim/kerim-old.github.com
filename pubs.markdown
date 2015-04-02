@@ -27,9 +27,15 @@ published: true
 > 印度原住民（Adivasis）總人數超過八千四百萬人，佔其全國總人口的百分之八，然而他們卻被視而不見；儘管印度高科技產業蓬勃發展，但是他們卻未從 中獲益，而是做為農民、森林遊牧、移動勞工以努力奮鬥求生。在簡要回顧印 度原住民的處境後，本文將探討一段致力於保存印度原住民語言、文化與歷史 的努力。Dhol的意思是鼓，這是位在Gujarat的一個NGO團體-Bhasha所出版 的一套「口述雜誌」的名稱。《Dhol》以十一種部落方言印製發行，內容取材 自口語敘述，並在每個村落的團體聚會中大聲朗誦來傳佈。本文來自與出版者 的訪談，文中除了將描述《Dhol》的歷史外，還包括這份刊物是如何準備與傳 佈的。本文結論將分析此類口述雜誌對印度原住民人權的重要性與影響。
 
 ## Other Academic Publications 
-- Review, House Signs and Collegiate Fun: Sex, Race, and Faith in a College Town, by Chaise LaDousa. In *Journal of Linguistic Anthropology*. May 2013.
-- Mastering Colonial Disorder. In *Museum Anthropology Review*. March 2012.
-- Film Review, The Rising Wave, by Shweta Kishore and Yask Desai. In *American Anthropologist*. December 2011.
-- Review, Political Interventions: Social Science and Political Action, by Pierre Bourdieu. In *Capital & Class*, February 2011.
-- Review, War of Words, by Sandra Silberstein, and At War with Words, by Mirjana N. Dedaić and Daniel N. Nelson (eds.). In *Language in Society*, September 2005.
-- Review, Language and Language-in-Education Planning in the Pacific Basin, by Robert Kaplan and Richard Baldauf. In *Language Policy*, December 2003.
+
+Review, House Signs and Collegiate Fun: Sex, Race, and Faith in a College Town, by Chaise LaDousa. In *[Journal of Linguistic Anthropology](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1395.2013.01154.x/abstract)*. May 2013.
+
+Mastering Colonial Disorder. In *[Museum Anthropology Review](http://scholarworks.iu.edu/journals/index.php/mar/article/view/2167)*. March 2012.
+
+Film Review, The Rising Wave, by Shweta Kishore and Yask Desai. In *[American Anthropologist](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2011.01381.x/abstract)*. December 2011.
+
+Review, Political Interventions: Social Science and Political Action, by Pierre Bourdieu. In *[Capital & Class](http://cnc.sagepub.com/content/35/1/141.full.pdf+html)*, February 2011.
+
+Review, War of Words, by Sandra Silberstein, and At War with Words, by Mirjana N. Dedaić and Daniel N. Nelson (eds.). In *[Language in Society](http://dx.doi.org/10.1017/S0047404505230221)*, September 2005.
+
+Review, Language and Language-in-Education Planning in the Pacific Basin, by Robert Kaplan and Richard Baldauf. In *[Language Policy](http://link.springer.com/article/10.1023/B%3ALPOL.0000017852.27504.8b)*, December 2003.
