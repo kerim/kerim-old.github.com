@@ -4,7 +4,7 @@ title: 寫作 Publications
 published: true
 ---
 
-*Note: These publications are also available on my [academia.edu](https://ndhu.academia.edu/KerimFriedman) page.*
+*Note: Article titles link to open access preprints, journal and book titles link to publisher's websites. These publications are also listed on my [academia.edu](https://ndhu.academia.edu/KerimFriedman) page.*
 
 ## Refereed Publications
 
