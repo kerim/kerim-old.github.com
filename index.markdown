@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 介紹 ABOUT
+title: 介紹 About
 published: true
 ---
 
