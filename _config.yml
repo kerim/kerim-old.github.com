@@ -5,6 +5,11 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
 
 # Setup
 title:            P. Kerim Friedman 傅可恩
