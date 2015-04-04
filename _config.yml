@@ -14,7 +14,7 @@ gems:
 # Setup
 title:            P. Kerim Friedman 傅可恩
 tagline:          'P. Kerim Friedman 傅可恩'
-description:      '<br/><a href="https://twitter.com/@kerim" target="_blank"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://facebook.com/kerimfriedman" target="_blank"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://plus.google.com/+KerimFriedman/about" target="_blank"><i class="fa fa-google-plus"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/kerim/" target="_blank" target="_blank"><i class="fa fa-flickr"></i></a>'
+description:      '<br/><a href="https://twitter.com/@kerim" target="_blank"><i class="fa fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://facebook.com/kerimfriedman" target="_blank"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://plus.google.com/+KerimFriedman/about" target="_blank"><i class="fa fa-google-plus"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/kerim/" target="_blank" target="_blank"><i class="fa fa-flickr"></i></a><br/>'
 url:              http://kerim.github.io/
 baseurl:          /
 
