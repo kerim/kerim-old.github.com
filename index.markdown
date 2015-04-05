@@ -18,7 +18,7 @@ His research interests include: indigeneity, language ideology, language standar
 
 Kerim is also a documentary filmmaker. His latest film, [Please Don’t Beat Me, Sir!.](http://dontbeatmesir.com/), was awarded the 2011 Jean Rouch Award for Collaborative Filmmaking from the [Society of Visual Anthropology](http://societyforvisualanthropology.org). 
 
-[![](https://farm8.staticflickr.com/7019/6549129845_c4521f823e_o.png)](http://dontbeatmesir.com/)
+[![](https://www.evernote.com/shard/s1/sh/fc33e0c7-7b78-4bfa-b814-e4b02e289c55/7937b399d5537315a40db772f37fd452/deep/0/Pasted-Image-4-5-15,-9-08-PM.png)
 
 His other film projects, along with those of his wife, [Shashawti Talukdar](http://blog.shashwati.com), can be found on the [Four Nine and a Half Pictures](http://fournineandahalf.com) website. 
 
