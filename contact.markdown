@@ -1,10 +1,14 @@
 ---
 layout: page
-title: "聯絡 Contact"
+title: 聯絡 Contact
+published: true
 ---
+
 # Contact 聯絡
 
-Email:[kerim.friedman@oxus.net](mailto:kerim.friedman@oxus.net)  
+Email: [kerim.friedman@oxus.net](mailto:kerim.friedman@oxus.net)  
+
+## Mailing Address
 
 Dr. P. Kerim Friedman  
 National Dong Hwa University  
@@ -17,3 +21,4 @@ Taiwan
 國立東華大學族群關係與文化學系  
 花蓮縣壽豐鄉志學村大學路二段一號  
 97401
+
