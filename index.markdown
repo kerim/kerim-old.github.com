@@ -35,7 +35,7 @@ Kerim is a founding member of the group anthropology blog [Savage Minds](http://
 
 His anthropology blogging also appears in Chinese on the [Guava Anthropology](http://guavanthropology.tw/author/傅可恩（Kerim%20Friedman）) website. And [Keywords](http://keywords.oxus.net) is his personal blog, for non-academic posts.
 
-傅可恩為[Savage Minds](http://savageminds.org/)人類學部落格的創始成員，該部落格被美國人類學家稱為「北美人類學社群的核心線上網站」，他所發表的人類學文章也會以中文呈現在「[芭樂人類學](http://guavanthropology.tw/author/傅可恩（Kerim%20Friedman）)」的網站，而「[關鍵字](http://keywords.oxus.net)」則是他個人非學術發表的部落格。
+傅可恩為[Savage Minds](http://savageminds.org/)人類學部落格的創始成員，該部落格被美國人類學期刊「American Anthropologist」[稱為](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2009.01203.x/abstract)「北美人類學社群的核心線上網站」，他所發表的人類學文章也會以中文呈現在「[芭樂人類學](http://guavanthropology.tw/author/傅可恩（Kerim%20Friedman）)」的網站，而「[關鍵字](http://keywords.oxus.net)」則是他個人非學術發表的部落格。
 
 # Other Activities 其它
 
