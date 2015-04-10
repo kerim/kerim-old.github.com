@@ -25,7 +25,7 @@ His other film projects, along with those of his filmmaker wife, [Shashawti Talu
 
 Kerim is on the steering committee of the [Taiwan International Ethnographic Film Festival](http://www.tieff.sinica.edu.tw).
 
-他也是一位民族誌電影工作者。最新的電影是：[《請別打我，長官！》](http://dontbeatmesir.com/)本片於2011年榮獲「[影視人類學](http://societyforvisualanthropology.org)」協作電影中的「尚胡許獎項」。在其他的電影計劃中，他和從事電影製作的妻子，[夏雪莉](http://blog.shashwati.com)(夏雪瓦提‧塔魯克達爾)有許多的合作，相關資訊列於「[四九又二分之一相冊](http://fournineandahalf.com)」。此外，他也擔任「臺灣國際影像民族誌電影節」，籌備理事委員會的成員。
+他也是一位民族誌電影工作者。最新的電影是：[《請別打我，長官！》](http://dontbeatmesir.com/)本片於2011年榮獲「[影視人類學](http://societyforvisualanthropology.org)」協作電影中的「尚胡許獎項」。在其他的電影計劃中，他和從事電影製作的妻子，[夏雪莉](http://blog.shashwati.com)(夏雪瓦提‧塔魯克達爾)有許多的合作，相關資訊列於「[四九又二分之一相冊](http://fournineandahalf.com)」。此外，他也擔任「[臺灣國際影像民族誌電影節](http://www.tieff.sinica.edu.tw)」，籌備理事委員會的成員。
 
 [![](https://www.evernote.com/shard/s1/sh/c124acea-9408-4576-832a-5a3d8719bb78/dd13fd3e35193e5b0e5ba8dbcedc5439/deep/0/Savage-Minds---Notes-and-Queries-in-Anthropology.png)](http://savageminds.org/)
 
