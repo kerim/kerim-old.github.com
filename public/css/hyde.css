@@ -248,3 +248,27 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/*
+Added by me 
+*/
+.bigtext {
+  display: block;
+  overflow: hidden;
+  color: #787878;
+}
+ 
+.expand, .contract {
+  cursor: pointer;
+  font-weight: bold;
+  padding: 15px 0;
+  text-align: center;
+  color: #555;
+}
+.expand:hover, .contract:hover {
+  color: #121212;
+}
+ 
+.hide {
+  display: none;
+}
