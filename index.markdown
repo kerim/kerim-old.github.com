@@ -27,7 +27,7 @@ Kerim is on the steering committee of the [Taiwan International Ethnographic Fil
 # Blogger 部落格
 [![](https://www.evernote.com/shard/s1/sh/c124acea-9408-4576-832a-5a3d8719bb78/dd13fd3e35193e5b0e5ba8dbcedc5439/deep/0/Savage-Minds---Notes-and-Queries-in-Anthropology.png)](http://savageminds.org/)
 
-Kerim is a founding member of the group anthropology blog [Savage Minds](http://savageminds.org/) which *American Anthropologist* [called](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2009.01203.x/abstract) “the central online site of the North American anthropological community.” 
+Kerim is a founding member of the anthropology blog [Savage Minds](http://savageminds.org/) which *American Anthropologist* [called](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2009.01203.x/abstract) “the central online site of the North American anthropological community.” 
 
 His anthropology blogging also appears in Chinese on the [Guava Anthropology](http://guavanthropology.tw/author/傅可恩（Kerim%20Friedman）) website. And [Keywords](http://keywords.oxus.net) is his personal blog, for non-academic posts.
 
