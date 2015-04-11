@@ -11,7 +11,7 @@ P\. Kerim Friedman lives and teaches in Taiwan where he is an associate professo
 His research interests include: indigeneity, language ideology, language revitalization, colonalism, ethnic studies, political economy, and ethnographic film. Links to his recent academic writing can be found on the [publications tab](http://kerim.oxus.net/pubs/), and a list of his courses can be found on the separate [sillabi website](http://kerim.oxus.net/syllabi/). 
 
 
-傅可恩目前定居和任教於臺灣，為花蓮國立東華大學，[族群關係與文化學系](http://www.erc.ndhu.edu.tw/)（隸屬於原住民民族學院）的副教授。專長為語言人類學與視覺人類學，他曾和臺灣原住民與印度的[除民和遊牧部落](http://en.wikipedia.org/wiki/Denotified_Tribes)有廣泛的合作。他的研究興趣涵蓋本土性、語言意識型態、語言復振、殖民主義、族群研究、政治經濟學與影像民族誌，欲了解其近期發表的學術文章，可點選「[寫作](http://kerim.oxus.net/pubs/)」。其授課內容，請至「[課程大綱](http://kerim.oxus.net/syllabi/)」。
+傅可恩目前定居和任教於臺灣，為花蓮國立東華大學，[族群關係與文化學系](http://www.erc.ndhu.edu.tw/)（隸屬於原住民民族學院）的副教授。專長為語言人類學與視覺人類學，他曾和臺灣原住民與印度的[除名和遊牧部落](http://en.wikipedia.org/wiki/Denotified_Tribes)有廣泛的合作。他的研究興趣涵蓋本土性、語言意識型態、語言復振、殖民主義、族群研究、政治經濟學與影像民族誌，欲了解其近期發表的學術文章，可點選「[寫作](http://kerim.oxus.net/pubs/)」。其授課內容，請至「[課程大綱](http://kerim.oxus.net/syllabi/)」。
 
 # Filmmaker 導演
 [![](https://www.evernote.com/shard/s1/sh/fc33e0c7-7b78-4bfa-b814-e4b02e289c55/7937b399d5537315a40db772f37fd452/deep/0/Pasted-Image-4-5-15,-9-08-PM.png)](http://dontbeatmesir.com)
