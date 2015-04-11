@@ -15,19 +15,34 @@ published: true
 </details>
 
 “[Collaboration against ethnography: How colonial history shaped the making of an ethnographic film](https://www.academia.edu/3648076/Collaboration_against_ethnography_How_colonial_history_shaped_the_making_of_an_ethnographic_film).” *[Critique of Anthropology](http://coa.sagepub.com/content/33/4/390.short)*. December 2013. (SSCI)
+<details>
+	<summary>Abstract</summary>
 > What happens when a commitment to collaborative ethnographic filmmaking runs up against a community’s ambivalence towards its own history? This paper provides an ethnohistorical account of the making of the film Please Don’t Beat Me, Sir!, exploring how colonial-era “police ethnographies” and contemporary communal politics shape the collaborative endeavor. The film was made in collaboration with Budhan Theatre, an activist theater troupe from the Chhara community in the Indian city of Ahmedabad, Gujarat. The Chhara are one of more than 198 communities labeled as “Criminal Tribes” by the British, a colonial legacy that still informs their interactions with the police. Inspired by the work of Jean Rouch, the film makes use of experimental ethnographic and cinematic techniques. These participation frameworks allowed the members of Budhan Theatre and their families to shape the structure and content of the film itself, a process sometimes at odds with the film’s ethnographic intent.
+</details>
 
 “[From Thugs to Victims: Dakxin Bajrange Chhara’s Cinema of Justice](https://www.academia.edu/806631/From_Thugs_to_Victims_Dakxin_Bajrange_Chharas_Cinema_of_Justice).” *[Visual Anthropology](http://www.tandfonline.com/doi/pdf/10.1080/08949468.2011.583571)* Vol. 24, No. 4. September 2011.
+<details>
+	<summary>Abstract</summary>
 > The documentary films of Indian filmmaker Dakxin Bajrange Chhara focus, not on his own community, but on marginalized nomadic communities within his home state of Gujarat. In order to understand these films I draw on Partha Chatterjee's theory of "political society" to argue that Bajrange's portrayal of the social injustices directed against these other communities serves also to challenge the historical stigma his own community feels as a result of having been labeled a "Criminal Tribe" by the British. By highlighting the victimhood of India’s Denotified and Nomadic Tribes (DNTs), Bajrange seeks to embue them with the “moral attributes of a community.”
+</details>
 
 “[Aborigine Education Policy Under the Japanese](https://www.academia.edu/806632/Entering_the_Mountains_to_Rule_the_Aborigines_Taiwanese_Aborigine_Education_and_the_Colonial_Encounter).” Chapter in volume, *[Becoming Taiwan, from Colonialism to Democracy](http://www.harrassowitz-verlag.de/title_3880.ahtml)*. Edited by Ann Heylen and Scott Sommers. Harrassowitz-Verlag. 2010.
+<details>
+	<summary>Abstract</summary>
 > Just as Native American education policy in post-Civil War United States was shaped by the thirst for land during a period of rapid westward expansion, so too was Aborigine education policy in Taiwan shaped by the forces which drew first the Qing, and later the Japanese into the rugged terrain of the high Central Mountain Range and the remote plains of the East Coast. Education policy was central to U.S. territorial expansion because "the willingness of Indians to sell their land" was assumed to be "directly proportionate to their ability to acquire civilized ways" (Adams 1988: 16). Whereas in the U.S. case these "civilized ways" were defined in terms Protestant ideology and an agricultural lifestyle, during the late Qing dynasty Confucianism and wet paddy rice farming served a similar purpose. The civilizing mission was no less central during Japanese rule, although loyalty to the Emperor replaced Confucianism. While the civilizing mission remained constant throughout the entire period, spanning from 1874 to 1945, there were important differences in implementation which had profound effects on the incorporation of Aborigines into the state. The arrival of the Colonial Japanese Government in 1895 marked an important turning point, bringing a new urgency to the task of occupying the mountain territories. And the start of the Sino-Japanese War of 1937 crated a need for loyal subjects willing to die for the Emperor. Taiwan's unique geography mattered too, with education policies in the Central Range differing from those on the East Coast. Accordingly, this chapter is organized around three time periods: late Qing (1874-1945), prewar (1895-1937) and wartime Japanese rule (1937-1945), with differences in education policy between the Mountains and the East Coast highlighted whenever possible.
+</details>
 
 "[Ethical Hegemony](https://www.academia.edu/806628/Ethical_Hegemony)." In *[Rethinking Marxism](http://www.tandfonline.com/doi/abs/10.1080/08935690902955062)*, July 2009.
+<details>
+	<summary>Abstract</summary>
 > Drawing upon Peter Ives's book Gramsci's Politics of Language, this article examines the linguistic origins of Antonio Gramsci's theory of hegemony. This is then compared with Pierre Bourdieu's theory of the habitus, with a particular focus on how the two theories conceptualize social change. Ives shows that Gramsci understood language standardization as either democratic or repressive, depending on the nature of the standardization process. Ives uses this to argue that the opposite of repressive hegemony is not the absence of hegemony but a progressive hegemony grounded in democratic processes. While Bourdieu's emphasis on social reproduction over social change makes his work less useful for conceptualizing such a progressive hegemony, this paper argues that his theory of symbolic capital (including linguistic capital) offers us a unique insight into the obstacles faced by agents of progressive social change and, in so doing, sheds light on the limitations of Gramsci's approach.
+</details>
 
 "[多爾鼓(Dhol)的故事: 關於印度原住民(Adivasis)為自己所做的口述雜誌](https://www.academia.edu/2406051/%E5%A4%9A%E7%88%BE%E9%BC%93_Dhol_%E7%9A%84%E6%95%85%E4%BA%8B_%E9%97%9C%E6%96%BC%E5%8D%B0%E5%BA%A6%E5%8E%9F%E4%BD%8F%E6%B0%91_Adivasis_%E7%82%BA%E8%87%AA%E5%B7%B1%E6%89%80%E5%81%9A%E7%9A%84%E5%8F%A3%E8%BF%B0%E9%9B%9C%E8%AA%8C)" (The Story of Dhol: An "oral magazine" by, about, and for Adivasis) (Linmic, Trans.). In J. H. Cheng-feng Shih (Ed.), *Dangdai Yindu minzhu zhengzhi*. (pp. 289-308). Taipei: Taiwan guoji yanjiu xuehui chuban : han lu tushu zongjingxiao. 2007.
+<details>
+	<summary>Abstract</summary>
 > 印度原住民（Adivasis）總人數超過八千四百萬人，佔其全國總人口的百分之八，然而他們卻被視而不見；儘管印度高科技產業蓬勃發展，但是他們卻未從 中獲益，而是做為農民、森林遊牧、移動勞工以努力奮鬥求生。在簡要回顧印 度原住民的處境後，本文將探討一段致力於保存印度原住民語言、文化與歷史 的努力。Dhol的意思是鼓，這是位在Gujarat的一個NGO團體-Bhasha所出版 的一套「口述雜誌」的名稱。《Dhol》以十一種部落方言印製發行，內容取材 自口語敘述，並在每個村落的團體聚會中大聲朗誦來傳佈。本文來自與出版者 的訪談，文中除了將描述《Dhol》的歷史外，還包括這份刊物是如何準備與傳 佈的。本文結論將分析此類口述雜誌對印度原住民人權的重要性與影響。
+</details>
 
 ## Other Academic Publications 
 
