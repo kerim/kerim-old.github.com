@@ -3,10 +3,8 @@ layout: default
 title: 介紹 About
 published: true
 ---
-
-[![](https://www.evernote.com/shard/s1/sh/3edfea85-5e30-4141-85da-fca6a40b4ec8/aa1ae7710be1c351e5a5b7119d5ac4bf/deep/0/5709041213_8b2d3502bd_o.jpg)](http://www.erc.ndhu.edu.tw/)
-
 # Anthropologist 人類學家
+[![](https://www.evernote.com/shard/s1/sh/3edfea85-5e30-4141-85da-fca6a40b4ec8/aa1ae7710be1c351e5a5b7119d5ac4bf/deep/0/5709041213_8b2d3502bd_o.jpg)](http://www.erc.ndhu.edu.tw/)
 
 P\. Kerim Friedman lives and teaches in Taiwan where he is an associate professor in the [Department of Ethnic Relations and Cultures](http://www.erc.ndhu.edu.tw/) (within the [College of Indigenous Studies](http://www.cis.ndhu.edu.tw/files/13-1016-50447.php)), at [National Dong Hwa University](http://www.ndhu.edu.tw/bin/home.php?Lang=en) in Hualien. Trained in both linguistic and visual anthropology, he has worked extensively with [indigenous Taiwanese](http://en.wikipedia.org/wiki/Taiwanese_aborigines) and with India's [Denotified and Nomadic Tribes (DNTs)](http://en.wikipedia.org/wiki/Denotified_Tribes). 
 
@@ -14,11 +12,10 @@ His research interests include: indigeneity, language ideology, language revital
 
 傅可恩目前是國立東華大學[族群關係與文化學系](http://www.erc.ndhu.edu.tw/)副教授。授課科目為語言人類學與視覺人類學。其研究探討臺灣的語言、意識型態與政治經濟學間的關係。
 
+# Filmmaker 導演
 [![](https://www.evernote.com/shard/s1/sh/fc33e0c7-7b78-4bfa-b814-e4b02e289c55/7937b399d5537315a40db772f37fd452/deep/0/Pasted-Image-4-5-15,-9-08-PM.png)](http://dontbeatmesir.com)
 
-# Filmmaker 導演
-
-Kerim is also a documentary filmmaker. His latest film, [Please Don’t Beat Me, Sir!.](http://dontbeatmesir.com/), was awarded the 2011 Jean Rouch Award for Collaborative Filmmaking from the [Society of Visual Anthropology](http://societyforvisualanthropology.org). 
+Kerim is also a documentary filmmaker. His latest film, [Please Don’t Beat Me, Sir!](http://dontbeatmesir.com/), was awarded the 2011 Jean Rouch Award for Collaborative Filmmaking from the [Society of Visual Anthropology](http://societyforvisualanthropology.org). 
 
 His other film projects, along with those of his filmmaker wife, [Shashawti Talukdar](http://blog.shashwati.com), can be found on the [Four Nine and a Half Pictures](http://fournineandahalf.com) website. 
 
@@ -26,9 +23,8 @@ Kerim is on the steering committee of the [Taiwan International Ethnographic Fil
 
 他也是一位民族誌電影工作者。他最新的電影是：[《請別打我，長官！》](http://dontbeatmesir.com/)
 
-[![](https://www.evernote.com/shard/s1/sh/c124acea-9408-4576-832a-5a3d8719bb78/dd13fd3e35193e5b0e5ba8dbcedc5439/deep/0/Savage-Minds---Notes-and-Queries-in-Anthropology.png)](http://savageminds.org/)
-
 # Blogger 部落格
+[![](https://www.evernote.com/shard/s1/sh/c124acea-9408-4576-832a-5a3d8719bb78/dd13fd3e35193e5b0e5ba8dbcedc5439/deep/0/Savage-Minds---Notes-and-Queries-in-Anthropology.png)](http://savageminds.org/)
 
 Kerim is a founding member of the group anthropology blog [Savage Minds](http://savageminds.org/) which *American Anthropologist* [called](http://onlinelibrary.wiley.com/doi/10.1111/j.1548-1433.2009.01203.x/abstract) “the central online site of the North American anthropological community.” 
 
