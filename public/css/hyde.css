@@ -251,24 +251,6 @@ a.sidebar-nav-item:focus {
 
 
 /* My additions 
-http://stackoverflow.com/questions/12307666/how-to-create-a-show-more-button-and-specify-how-many-lines-of-text-can-be-ini
+
 */
 
-.hideContent {
-    overflow: hidden;
-    line-height: 1em;
-    height: 2em;
-}
-
-.showContent {
-    line-height: 1em;
-    height: auto;
-}
-.showContent{
-    height: auto;
-}
-
-.show-more {
-    padding: 10px 0;
-    text-align: center;
-}
