@@ -6,6 +6,15 @@ published: true
 
 *Note: Article titles link to open access preprints, journal and book titles link to publisher's websites. These publications are also listed on my [academia.edu](https://ndhu.academia.edu/KerimFriedman) page.*
 
+## Under Review
+
+# "The Hegemony of the Local: Taiwanese Multiculturalism and Indigenous Identity Politics" Paper submitted to *Boundary 2* For the special issue “Taiwan, the Land that Colonialism Made.” Edited by Arif Dirlik, Liao Ping-hui, and Ya-chung Chuang. (Preprint available upon request.)
+
+<details>
+	<summary>Abstract</summary>
+> The rise of Taiwanese multiculturalism, and Indigenous identity politics in particular, is often seen as a project of pro-independence activists seeking to carve out a unique local identity for Taiwan in order to battle Chinese cultural hegemony. While there is some truth to this view, this paper argues that the rise of a uniquely Taiwanese form of multiculturalism was actually the product of a successful effort to head-off the rise of Taiwanese ethnic nationalism--which the ruling Nationalist Party (KMT) leaders feared might derail efforts to transition from Martial Law to democracy. Taiwanese multiculturalism was partially inspired by Japanese "furusato-zukuri," a national project to promote nostalgia for rural village life, and similarly focused attention on culture at the village level rather than at the level of the state--where racial politics would have had a greater chance of taking hold. Drawing on Gramsci's theory of historical-blocs and Anna Tsing's exploration of scale-making as a project, this paper explores the historical context of Taiwanese multiculturalism in order to better understand certain aspects of contemporary Indigenous cultural politics, where village-level politics often trump those of the tribe, and where the number of officially recognized tribes has grown from the nine to sixteen in recent years. 
+</details>
+
 ## Refereed Publications
 
 “Anthropological Publics and Their Onlookers: The Dynamics of Multiple Audiences In The Blog Savageminds.org.”  With Alex Golub. In *[Media, Engagement, and Anthropological Practice: Contemporary Scholarship](http://www.berghahnbooks.com/title.php?rowtag=PinkMedia)*, Simone Abram and Sarah Pink, eds. Berghahn Books. October 2015.
