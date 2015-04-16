@@ -8,7 +8,7 @@ published: true
 
 ## Under Review
 
-# "The Hegemony of the Local: Taiwanese Multiculturalism and Indigenous Identity Politics" Paper submitted to *Boundary 2* For the special issue “Taiwan, the Land that Colonialism Made.” Edited by Arif Dirlik, Liao Ping-hui, and Ya-chung Chuang. (Preprint available upon request.)
+"The Hegemony of the Local: Taiwanese Multiculturalism and Indigenous Identity Politics" Paper submitted to *Boundary 2* For the special issue “Taiwan, the Land that Colonialism Made.” Edited by Arif Dirlik, Liao Ping-hui, and Ya-chung Chuang. (Preprint available upon request.)
 
 <details>
 	<summary>Abstract</summary>
