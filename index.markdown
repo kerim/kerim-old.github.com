@@ -8,7 +8,7 @@ published: true
 
 P\. Kerim Friedman lives and teaches in Taiwan where he is an associate professor in the [Department of Ethnic Relations and Cultures](http://www.erc.ndhu.edu.tw/) (within the [College of Indigenous Studies](http://www.cis.ndhu.edu.tw/files/13-1016-50447.php)), at [National Dong Hwa University](http://www.ndhu.edu.tw/bin/home.php?Lang=en) in Hualien. Trained in both linguistic and visual anthropology, he has worked extensively with [indigenous Taiwanese](http://en.wikipedia.org/wiki/Taiwanese_aborigines) and with India's [Denotified and Nomadic Tribes (DNTs)](http://en.wikipedia.org/wiki/Denotified_Tribes). 
 
-His research interests include: indigeneity, language ideology, language revitalization, colonalism, ethnic studies, political economy, and ethnographic film. Links to his recent academic writing can be found on the [publications tab](http://kerim.oxus.net/pubs/), and a list of his courses can be found on the separate [sillabi website](http://kerim.oxus.net/syllabi/). 
+His research interests include: indigeneity, language ideology, language revitalization, colonalism, ethnic studies, political economy, and ethnographic film. Links to his recent academic writing can be found on the [publications tab](http://kerim.oxus.net/pubs/), and a list of his courses can be found on the separate [syllabi website](http://kerim.oxus.net/syllabi/). 
 
 
 傅可恩目前定居和任教於臺灣，為花蓮國立東華大學，[族群關係與文化學系](http://www.erc.ndhu.edu.tw/)（隸屬於原住民民族學院）的副教授。專長為語言人類學與視覺人類學，他曾和臺灣原住民與印度的[除名和遊牧部落](http://en.wikipedia.org/wiki/Denotified_Tribes)有廣泛的合作。他的研究興趣涵蓋本土性、語言意識型態、語言復振、殖民主義、族群研究、政治經濟學與影像民族誌，欲了解其近期發表的學術文章，可點選「[寫作](http://kerim.oxus.net/pubs/)」。其授課內容，請至「[課程大綱](http://kerim.oxus.net/syllabi/)」。
