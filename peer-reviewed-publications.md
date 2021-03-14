@@ -5,7 +5,7 @@ layout: about
 invisible: "true"
 ---
 
-# Peer-Reviewed Publications
+## Peer-Reviewed Publications
 
 > See my [ResearchGate](https://www.researchgate.net/profile/P-Friedman) profile for more. 
 
@@ -17,7 +17,7 @@ invisible: "true"
 
 “Anthropological Publics and Their Onlookers: The Dynamics of Multiple Audiences In The Blog Savageminds.org.”  With Alex Golub. In _[Media, Engagement, and Anthropological Practice: Contemporary Scholarship](https://www.berghahnbooks.com/title/PinkMedia)_, Edited by Simone Abram and Sarah Pink. Berghahn Books. October 2015.
 
-“[Collaboration against ethnography: How colonial history shaped the making of an ethnographic film.](https://doi.org/10.1177/0308275X13499385)” _Critique of Anthropology_. December 2013.
+“[Collaboration against ethnography: How colonial history shaped the making of an ethnographic film.](https://doi.org/10.1177/0308275X13499385)” _Critique of Anthropology_. December 2013. ([preprint](/files/friedman-2013.pdf))
 
 “[From Thugs to Victims: Dakxin Bajrange Chhara’s Cinema of Justice](https://doi.org/10.1080/08949468.2011.583571).” _Visual Anthropology_, Vol. 24, No. 4. September 2011.
 
