@@ -1,0 +1,2 @@
+- name: Cloudflare Purge Cache
+  uses: jakejarvis/cloudflare-purge-action@v0.3.0
