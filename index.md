@@ -12,3 +12,7 @@ P. Kerim Friedman is an associate professor in the [Department of Ethnic Relatio
 An ethnographic filmmaker, he co-produced the Jean Rouch award-winning documentary, '[Please Don't Beat Me, Sir!](https://pleasedontbeatmesir.fournineandahalf.com)' about a street theater troupe from one of India's Denotified and Nomadic Tribes (DNTs). 
 
 Kerim is also a co-founder of the anthropology blog [anthro{dendum}](https://anthrodendum.org) (formerly [Savage Minds](https://savageminds.org/)). His personal blog is [Keywords](https://keywords.oxus.net/). 
+
+### Latest News
+
+From February 2021 till the end of January 2022 I have received the [Professorial Fellowship for the Chair of Taiwan Studies at Leiden University](https://www.iias.asia/professorial-fellowship-chair-taiwan-studies-leiden-university), where I will be teaching one course per a semester. Because of COVID-19, I am currently still in Taiwan, teaching online, but I hope to make it to Leiden for the second semester if things improve.
