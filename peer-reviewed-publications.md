@@ -9,11 +9,11 @@ invisible: "true"
 
 > See my [ResearchGate](https://www.researchgate.net/profile/P-Friedman) profile for more. 
 
-“The Shifting Chronotopes of Indigeneity in Taiwanese Documentary Film.” In _[Taiwan’s Contemporary Indigenous Peoples](https://www.routledge.com/Taiwans-Contemporary-Indigenous-Peoples/Fell-Davies-Huang/p/book/9780367553579)_, edited by Dafydd Fell and Chia-Yuan Huang. Oxon: UK: Routledge. 2021. 
+“The Shifting Chronotopes of Indigeneity in Taiwanese Documentary Film.” In _[Taiwan’s Contemporary Indigenous Peoples](https://www.routledge.com/Taiwans-Contemporary-Indigenous-Peoples/Fell-Davies-Huang/p/book/9780367553579)_, edited by Dafydd Fell and Chia-Yuan Huang. Oxon: UK: Routledge. 2021. (Forthcoming in July.)
 
 “Defining Ethnographic Film.” In _[The Routledge International Handbook of Ethnographic Film and Video](https://www.routledge.com/The-Routledge-International-Handbook-of-Ethnographic-Film-and-Video/Vannini/p/book/9780367185824)_, edited by Phillip Vannini. Routledge. 2020. ([preprint](/files/friedman-2020.pdf))
 
-“[The Hegemony of the Local: Taiwanese Multiculturalism and Indigenous Identity Politics](https://doi.org/10.1215/01903659-6915593).” In “Taiwan, the Land that Colonialism Made” a special issue edited by Arif Dirlik, Liao Ping-hui, & Chuang Ya-chung. _Boundary 2_, Vol. 45, no.3. 2018. 
+“[The Hegemony of the Local: Taiwanese Multiculturalism and Indigenous Identity Politics](https://doi.org/10.1215/01903659-6915593).” In “Taiwan, the Land that Colonialism Made” a special issue edited by Arif Dirlik, Liao Ping-hui, & Chuang Ya-chung. _Boundary 2_, Vol. 45, no.3. 2018. ([preprint](/files/friedman-2018.pdf))
 
 “Anthropological Publics and Their Onlookers: The Dynamics of Multiple Audiences In The Blog Savageminds.org.”  With Alex Golub. In _[Media, Engagement, and Anthropological Practice: Contemporary Scholarship](https://www.berghahnbooks.com/title/PinkMedia)_, Edited by Simone Abram and Sarah Pink. Berghahn Books. October 2015.
 
