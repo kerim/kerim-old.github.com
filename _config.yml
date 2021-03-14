@@ -3,7 +3,7 @@ remote_theme: kerim/academic
 # General settings
 title: P. Kerim Friedman 傅可恩
 description: Kerim is a Taiwan-based anthropologist.
-baseurl: ""
+baseurl: "/"
 url: "https://kerim.oxus.net"
 
 # Author
