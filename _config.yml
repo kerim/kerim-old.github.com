@@ -20,4 +20,6 @@ facebook_username: kerim.friedman
 favicon:
   safari: 5bbad5
   theme: ffffff
-
+  
+- name: Cloudflare Purge Cache
+  uses: jakejarvis/cloudflare-purge-action@v0.3.0
