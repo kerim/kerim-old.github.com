@@ -5,8 +5,6 @@ layout: about
 
 ---
 
-#publish
-
 ## Research
 
 ### Recent Academic Publications
