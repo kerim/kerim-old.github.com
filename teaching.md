@@ -5,8 +5,6 @@ layout: about
 
 ---
 
-#publish
-
 ## 研究所 Graduate Courses
 
 [語言人類學 Linguistic Anthropology](https://kerim.oxus.net/syllabi/linguistic-anthropology/)
