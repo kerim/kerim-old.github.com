@@ -1,6 +1,7 @@
 ---
 title: "Research"
 date: 2021-03-08T11:53:53.893000
+layout: about
 
 ---
 

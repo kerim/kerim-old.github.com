@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 date: 2021-03-13T08:49:35.225000
+layout: about
 
 ---
 
