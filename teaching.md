@@ -1,9 +1,10 @@
 ---
 title: "Teaching"
 date: 2021-03-13T08:49:35.225000
-layout: about
 
 ---
+
+#publish
 
 ## 研究所 Graduate Courses
 
@@ -24,10 +25,6 @@ layout: about
 * Graduate seminar on the theory and history of visual anthropology.
 
 ## 大學系 Undergraduate Courses
-
-[原住民教育 Indigenous Education](https://kerim.oxus.net/syllabi/aboriginal-education/)
-
-* Undergraduate course on issues of class, race, and gender in education, with a specific focus on indigenous education.
 
 [原住民影像 Indigenous Images](https://kerim.oxus.net/syllabi/aboriginal-images/)
 
@@ -57,17 +54,17 @@ layout: about
 
 Courses I only taught once, or which have been discontinued
 
-[Define and Rule - Race, Gender, and Colonial Knowledge](https://kerim.oxus.net/syllabi/syllabus-define-and-rule/)
+[Indigenous Taiwan on Screen](https://kerim.oxus.net/syllabi/indigenous-taiwan-on-screen/)
 
-* Independent study offered to my Ph.D. students to introduce students to debates and topics within contemporary foucauldian approaches to colonial studies.
+* Undergradute course offered at Leiden University as part of my responsibilities while serving as Chair of Taiwan Studies in 2021.
 
 [PhD Seminar in Sovereignty Studies](https://kerim.oxus.net/syllabi/sovereignty/)
 
 * Independent study offered to my Ph.D. students on classical and contemporary approaches to sovereignty studies
 
-[Indigenous Taiwan on Screen](https://kerim.oxus.net/syllabi/indigenous-taiwan-on-screen/)
+[Define and Rule - Race, Gender, and Colonial Knowledge](https://kerim.oxus.net/syllabi/syllabus-define-and-rule/)
 
-* Undergradute course offered at Leiden University as part of my responsibilities while serving as Chair of Taiwan Studies in 2021.
+* Independent study offered to my Ph.D. students to introduce students to debates and topics within contemporary foucauldian approaches to colonial studies.
 
 [語言與政治經濟學 Language and Political Economy](https://kerim.oxus.net/syllabi/language-and-political-economy/)
 
@@ -76,3 +73,7 @@ Courses I only taught once, or which have been discontinued
 [語言、科技與社會變遷 Language, Technology and Social Change](https://kerim.oxus.net/syllabi/language-technology-and-social-change/)
 
 * Graduate seminar on the social effects of developments in communications technology, including writing, the printing press, the internet, and mobile communications. 
+
+[原住民教育 Indigenous Education](https://kerim.oxus.net/syllabi/aboriginal-education/)
+
+* Undergraduate course on issues of class, race, and gender in education, with a specific focus on indigenous education.

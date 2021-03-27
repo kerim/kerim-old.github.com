@@ -1,15 +1,16 @@
 ---
 title: "關於傅老師"
 date: 2021-03-13T07:58:07.610000
-layout: about
 
 ---
+
+#publish
 
 ## 關於傅老師
 
 ### 人類學家
 
-傅可恩目前定居和任教於臺灣，為花蓮國立東華大學，[族群關係與文化學系](http://www.erc.ndhu.edu.tw/)（隸屬於原住民民族學院）的副教授。專長為語言人類學與視覺人類學，他曾和臺灣原住民與印度的[除名和遊牧部落](https://en.wikipedia.org/wiki/Denotified_Tribes)有廣泛的合作。他的研究興趣涵蓋本土性、語言意識型態、語言復振、殖民主義、族群研究、政治經濟學與影像民族誌。他的學術文章可以從[PaperPile](https://paperpile.com/shared/tOBOvK)或[Academia.edu](https://ndhu.academia.edu/KerimFriedman)下載的。其授課內容，請至「[課程大綱](https://kerim.oxus.net/syllabi/)」。
+傅可恩目前定居和任教於臺灣，為花蓮國立東華大學，[族群關係與文化學系](http://www.erc.ndhu.edu.tw/)（隸屬於原住民民族學院）的副教授。專長為語言人類學與視覺人類學，他曾和臺灣原住民與印度的[除名和遊牧部落](https://en.wikipedia.org/wiki/Denotified_Tribes)有廣泛的合作。他的研究興趣涵蓋本土性、語言意識型態、語言復振、殖民主義、族群研究、政治經濟學與影像民族誌。他的學術文章可以從 [ResearchGate](https://www.researchgate.net/profile/P-Friedman) 下載的。其授課內容，請至「[課程大綱](https://kerim.oxus.net/syllabi/)」。
 
 ### 導演
 
@@ -26,9 +27,6 @@ layout: about
 ### 地址
 
 傅可恩副教授  
-
 國立東華大學族群關係與文化學系  
-
 花蓮縣壽豐鄉志學村大學路二段一號  
-
 97401
