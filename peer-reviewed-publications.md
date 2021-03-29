@@ -1,11 +1,9 @@
 ---
 title: "Peer-Reviewed Publications"
 date: 2021-03-02T12:53:36.057000
-layout: about
+layout: "about"
 invisible: "true"
 ---
-
-#publish
 
 ## Peer-Reviewed Publications
 
