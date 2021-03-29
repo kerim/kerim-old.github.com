@@ -6,6 +6,10 @@ layout: "about"
 
 ## Research
 
+### In Process
+
+A co-authored paper on Indigenous Family Language Planning in Taiwan
+
 ### Recent Academic Publications
 
 <span class="roam-blockref">“The Shifting Chronotopes of Indigeneity in Taiwanese Documentary Film.” In _[Taiwan’s Contemporary Indigenous Peoples](https://www.routledge.com/Taiwans-Contemporary-Indigenous-Peoples/Fell-Davies-Huang/p/book/9780367553579)_, edited by Dafydd Fell and Chia-Yuan Huang. Oxon: UK: Routledge. 2021. (Forthcoming in July.)</span>
@@ -27,5 +31,3 @@ Full list of my <span class="roam-page">[Peer-Reviewed Publications](peer-review
 ### Visual Projects
 
 “[Please Don’t Beat Me, Sir!”](http://dontbeatmesir.com) (74 min) With [Shashwati Talukdar](https://shashwati.com/). A feature-length documentary about a DNT (Denotified Tribe) community in Gujarat, India, and the role that theatre has played in shaping their lives. 2011.
-
-#publish

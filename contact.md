@@ -13,5 +13,3 @@ Department of Ethnic Relations and Cultures
 No. 1, Sec. 2, Da Hsueh Rd.  
 Shoufeng, Hualien 97401  
 Taiwan
-
-#publish
