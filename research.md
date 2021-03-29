@@ -27,3 +27,5 @@ Full list of my <span class="roam-page">[Peer-Reviewed Publications](peer-review
 ### Visual Projects
 
 “[Please Don’t Beat Me, Sir!”](http://dontbeatmesir.com) (74 min) With [Shashwati Talukdar](https://shashwati.com/). A feature-length documentary about a DNT (Denotified Tribe) community in Gujarat, India, and the role that theatre has played in shaping their lives. 2011.
+
+#publish

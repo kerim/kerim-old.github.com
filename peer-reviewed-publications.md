@@ -5,9 +5,7 @@ layout: "about"
 invisible: "true"
 ---
 
-## Peer-Reviewed Publications
-
-> See my [ResearchGate](https://www.researchgate.net/profile/P-Friedman) profile for more. 
+#publish
 
 “The Shifting Chronotopes of Indigeneity in Taiwanese Documentary Film.” In _[Taiwan’s Contemporary Indigenous Peoples](https://www.routledge.com/Taiwans-Contemporary-Indigenous-Peoples/Fell-Davies-Huang/p/book/9780367553579)_, edited by Dafydd Fell and Chia-Yuan Huang. Oxon: UK: Routledge. 2021. (Forthcoming in July.)
 
@@ -26,3 +24,7 @@ invisible: "true"
 "[Ethical Hegemony](https://doi.org/10.1080/08935690902955062)." In _Rethinking Marxism_, July 2009.
 
 "Duoergu (Dhol) de gushi: Guanyu Yindu yuanzhumin (Adivasis) wei ziji suo zuo de koushu zazhi." (The Story of Dhol: An "oral magazine" by, about, and for Adivasis) (Linmic, Trans.). In J. H. Cheng-feng Shih (Ed.), _[Dangdai Yindu minzhu zhengzhi](http://www.hanlu.com.tw/front/bin/ptdetail.phtml?Part=978-986-82090-4-6)_. (pp. 289-308). Taipei: Taiwan guoji yanjiu xuehui chuban : han lu tushu zongjingxiao. 2007.
+
+## Peer-Reviewed Publications
+
+> See my [ResearchGate](https://www.researchgate.net/profile/P-Friedman) profile for more. 

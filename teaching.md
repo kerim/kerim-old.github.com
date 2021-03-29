@@ -48,21 +48,27 @@ layout: "about"
 
 * Core course teaching basic college survival skills to undergraduates. (Co-taught.)
 
+#publish
+
 ## Other Courses
+
+[原住民教育 Indigenous Education](https://kerim.oxus.net/syllabi/aboriginal-education/)
+
+* Undergraduate course on issues of class, race, and gender in education, with a specific focus on indigenous education.
 
 Courses I only taught once, or which have been discontinued
 
-[Indigenous Taiwan on Screen](https://kerim.oxus.net/syllabi/indigenous-taiwan-on-screen/)
+[Define and Rule - Race, Gender, and Colonial Knowledge](https://kerim.oxus.net/syllabi/syllabus-define-and-rule/)
 
-* Undergradute course offered at Leiden University as part of my responsibilities while serving as Chair of Taiwan Studies in 2021.
+* Independent study offered to my Ph.D. students to introduce students to debates and topics within contemporary foucauldian approaches to colonial studies.
 
 [PhD Seminar in Sovereignty Studies](https://kerim.oxus.net/syllabi/sovereignty/)
 
 * Independent study offered to my Ph.D. students on classical and contemporary approaches to sovereignty studies
 
-[Define and Rule - Race, Gender, and Colonial Knowledge](https://kerim.oxus.net/syllabi/syllabus-define-and-rule/)
+[Indigenous Taiwan on Screen](https://kerim.oxus.net/syllabi/indigenous-taiwan-on-screen/)
 
-* Independent study offered to my Ph.D. students to introduce students to debates and topics within contemporary foucauldian approaches to colonial studies.
+* Undergradute course offered at Leiden University as part of my responsibilities while serving as Chair of Taiwan Studies in 2021.
 
 [語言與政治經濟學 Language and Political Economy](https://kerim.oxus.net/syllabi/language-and-political-economy/)
 
@@ -71,7 +77,3 @@ Courses I only taught once, or which have been discontinued
 [語言、科技與社會變遷 Language, Technology and Social Change](https://kerim.oxus.net/syllabi/language-technology-and-social-change/)
 
 * Graduate seminar on the social effects of developments in communications technology, including writing, the printing press, the internet, and mobile communications. 
-
-[原住民教育 Indigenous Education](https://kerim.oxus.net/syllabi/aboriginal-education/)
-
-* Undergraduate course on issues of class, race, and gender in education, with a specific focus on indigenous education.
