@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2021-02-17T01:20:25.347000
-layout: about
+layout: "about"
 invisible: "true"
 ---
 
