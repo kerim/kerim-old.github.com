@@ -1,7 +1,7 @@
 ---
 title: "Research"
 date: 2021-03-08T11:53:53.893000
-layout: "about"
+layout: about
 ---
 
 ## Research
@@ -18,7 +18,7 @@ A co-authored paper on Indigenous Family Language Planning in Taiwan
 
 <span class="roam-blockref">“[The Hegemony of the Local: Taiwanese Multiculturalism and Indigenous Identity Politics](https://doi.org/10.1215/01903659-6915593).” In “Taiwan, the Land that Colonialism Made” a special issue edited by Arif Dirlik, Liao Ping-hui, & Chuang Ya-chung. _Boundary 2_, Vol. 45, no.3. 2018. ([preprint](/files/friedman-2018.pdf))</span>
 
-Full list of my <span class="roam-page">[Peer-Reviewed Publications](peer-reviewed-publications)</span> here, or visit [my ResearchGate profile](https://www.researchgate.net/profile/P-Friedman) for more.
+Full list of my <span class="roam-page">[Peer-Reviewed Publications](/peer-reviewed-publications)</span> here, or visit [my ResearchGate profile](https://www.researchgate.net/profile/P-Friedman) for more.
 
 ### Selected Other Writing
 
