@@ -68,7 +68,7 @@ Courses I only taught once, or which have been discontinued
 
 * Independent study offered to my Ph.D. students to introduce students to debates and topics within contemporary foucauldian approaches to colonial studies.
 
-[語言與政治經濟學 Language and Political Economy](https://garden.oxus.net/%F0%9F%93%93+Syllabi/%E8%AA%9E%E8%A8%80%E3%80%81%E7%A7%91%E6%8A%80%E8%88%87%E7%A4%BE%E6%9C%83%E8%AE%8A%E9%81%B7+Language%2C+Technology+and+Social+Change)
+[語言與政治經濟學 Language and Political Economy](https://garden.oxus.net/%F0%9F%93%93+Syllabi/%E8%AA%9E%E8%A8%80%E8%88%87%E6%94%BF%E6%B2%BB%E7%B6%93%E6%BF%9F%E5%AD%B8+Language+and+Political+Economy)
 
 * Graduate seminar on contemporary work in linguistic anthropology.
 
